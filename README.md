@@ -1,10 +1,10 @@
 # consolidado1-73231557
 
 **Nombre:** Ruth Estefani Huaman Mamani
-**Código de alumno:** 73231557
+**Código :** 73231557
 
 ## Descripción
-Práctica Calificada - Consolidado 1 de Construcción de Software (POO, Git y Gitflow).
+Consolidado 1 de Construcción de Software .
 
 ## Archivos
 - `planeta.py`: clase Planeta con densidad y clasificación exterior/interior.
